@@ -2,7 +2,11 @@ import requests
 from flask import Flask, jsonify
 
 
+<<<<<<< HEAD
 TOKEN = "Токен"
+=======
+TOKEN = "Token"
+>>>>>>> bb6fc69e799054fbf687d30ede03e411eb4067dd
 URL = "https://api.weather.yandex.ru/v2/forecast?lat=52.37125&lon=4.89388"
 
 
